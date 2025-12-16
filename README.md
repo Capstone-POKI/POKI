@@ -87,7 +87,8 @@ PitchCoach는 예비·초기 창업자의 IR 피칭 준비 전 과정
     - AI 리포트 점수 산출 근거 설명
     - 점수에 영향을 준 문장·슬라이드 하이라이트 제공 (Explainable AI)
 
-![image.png](attachment:ea1952f7-dce2-4e48-8fcc-25bf6d300781:image.png)
+<img width="4809" height="3580" alt="image" src="https://github.com/user-attachments/assets/6bde42de-6f22-4d18-bcbf-652d8d182096" />
+
 
 ---
 
